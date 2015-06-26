@@ -1,0 +1,23 @@
+{
+	"name": "neats29.deep-blue",
+	"version": "1.0.0",
+	"title": "Deep Blue Brackets Theme",
+  	"description": "A theme for the Adobe Brackets text editor.",
+  	"main": "index.js",
+  	"homepage": "https://github.com/Neats29/theme.git",
+  	"keywords": [
+		"adobe brackets",
+		"brackets theme",
+		"brackets themes"
+  	],
+	"author": "Neats29 (https://github.com/neats29)",
+	"license": "MIT",
+	"theme": {
+		"file": "theme.less",
+		"dark": true
+	},
+	"bugs": {
+		"url": "https://github.com/Neats29/theme/issues"
+	},
+	"homepage": "https://github.com/Neats29/theme"
+}
