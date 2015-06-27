@@ -12,3 +12,9 @@ A theme for the Adobe Brackets Text Editor
 ##HTML
 
 ![](html.png)
+
+##Download
+
+Search for Deep Blue to download the extension
+
+![](extension.png)
