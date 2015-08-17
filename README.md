@@ -1,24 +1,24 @@
 # Midnight Blue
 A theme for the Adobe Brackets Text Editor
 
-##JavaScript
+#JavaScript
 
 ![](js-long.png)
 
-##CSS
+#CSS
 
 ![](css.png)
 
-##HTML
+#HTML
 
 ![](html.png)
 
-##Download
+#Download
 
 Search for Deep Blue to download the extension
 
 ![](extension.png)
 
-##Feedback 
+#Feedback 
 
 Please raise an issue if you have any questions or suggestions. 
