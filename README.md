@@ -1,5 +1,5 @@
 # Midnight Blue
-#### A theme for the Adobe Brackets Text Editor
+A theme for the Adobe Brackets Text Editor
 
 #JavaScript
 
